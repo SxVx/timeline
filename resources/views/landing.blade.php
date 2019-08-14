@@ -1,4 +1,4 @@
-@extends('layout')
+﻿@extends('layout')
 
 @section('title')
 	Linea de tiempo
@@ -20,16 +20,7 @@
 @section('content')
 <div class="container">
 
-        <div class="alert alert-success mx-auto container mt-5 text-center" role="alert">
-            <b>Algunos usuarios para probar el aplicativo:</b> <br>
-            <b>Usuario | Contraseña </b> <br>
-            <p> Emmalee Hudson | L5JOrhYg<br>
-                Mariam Turcotte	|    PELXXAjA <br>
-                Ila Yundt | UdpXcJB6 <br>
-                Prof. Dimitri 	|	WyttbvX9 <br>
-                Tressie Kessler |	KaQecfKQ 
-            </p>
-        </div>
+
 
     <nav class="my-4">
         <ul class="pagination pg-red justify-content-center" style="overflow:hidden">
